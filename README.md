@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mintautasi
-- 👀 I’m interested in CyberSecurity, hacking, coding, and fun. Sex with my gf is also a blessing
-- 🌱 I’m currently learning Cyber Security
+- 👀 I’m interested in CyberSecurity, hacking, coding, and fun. 
 - 💞️ I’m looking to collaborate on Car Rental app
 - 📫 How to reach me: DC- Mintautas#3955 
 
